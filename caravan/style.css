@@ -73,13 +73,13 @@ header.haedline{
 }
 .blog {
   width: 600px;
-  height: 1400px;
+  
   /*background-color: limegreen;*/
   float: left;
 }
 .sidebar {
   width: 240px;
-  height: 1400px;
+  
   /*background-color: palegreen;*/
   float: left;
 }
