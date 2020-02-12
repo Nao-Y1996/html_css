@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color:#6c6b6b;
+}
+
+/*a{
+	text-decoration:none;
+}*/
+
+.top-visual{
+	height: 400px;
+	width:100%;
+	margin-bottom:20px;
+	background-image: url(img/mv.jpg);
+	background-size: cover;
+	background-position: bottom;
+	/*background-color: red;*/
+}
+.top-visual-text{
+	padding: 20px;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+
+main{
+	margin-bottom: 50px;
+}
+
+.site-box{
+	width:840px;
+	margin: 0 auto;
+	padding: 30px 0;
+	border-bottom: 1px solid #848282;
+}
+.site-box-text{
+	padding-top:10px;
+}
