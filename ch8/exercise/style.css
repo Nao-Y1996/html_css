@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color:#6c6b6b;
+}
+.clearfix::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.main {
+
+	width:960px;
+	margin: 50px auto;
+}
+
+
+.list{
+	padding:20px 0 20px 20px;
+}
+.list:nth-child(odd){
+	background-color: #acabab;
+}
+.list:nth-child(7){
+	margin-bottom:50px;
+}
+.box-group{
+	margin-bottom: 40px;
+}
+.box{
+	height:200px;
+	width:30%;
+	background-color: yellow;
+	float:left;
+}
+.box:nth-child(2){
+	margin:0 5%;
+}
+#orange{
+	background-color: orange;
+}
