@@ -46,3 +46,19 @@ main{
 h3{
 	margin:5px 0;
 }
+
+@media screen and (max-width:768px) {  
+main{
+	width:100%;
+	margin:0 auto;
+}
+
+.box{
+	margin:10px auto;
+	float:none;
+}
+.box:nth-child(2){	
+	margin:10px auto;
+	float:none;
+}
+}
