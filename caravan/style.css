@@ -108,11 +108,13 @@ main{
 .blog-image{
 	height:180px;
 	float:left;
+	width:270px;
 }
 .blog-text{
 	float:left;
 	padding-left: 25px;
 	padding-top:30px;
+	width:270px;
 }
 .blog-text-headline{
 	padding-bottom: 15px;
@@ -261,7 +263,7 @@ main{
 
 .instagram-box {
     width: 48%;
-    padding-top: 48%;/*---------ここは？*/
+    padding-top: %;/*---------ここは？*/
   }
   .instagram-box:nth-child(odd) {
     margin-right: 4%;
